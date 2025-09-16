@@ -18,7 +18,7 @@ Welcome to my first GitHub repository! 🎉 This is where I explore **GitHub, ve
 📌 Contribute to open-source projects 🌍  
 📌 Learn CI/CD & automation  
 
----
+----
 
 ## 👨‍💻 About Me  
 Hi! I’m **Samannay Guha**, a B.Tech student in **Computer Science & Technology**. 🚀  
