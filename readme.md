@@ -2,7 +2,7 @@
 
 Welcome to my first GitHub repository! 🎉 This is where I explore **GitHub, version control, and repository management.**  
 
----
+----
 
 ## 📌 What I'm Doing Here  
 ✅ Creating my first repository  
@@ -10,7 +10,7 @@ Welcome to my first GitHub repository! 🎉 This is where I explore **GitHub, ve
 ✅ Learning about commits & pushes 🔄  
 ✅ Exploring branches & pull requests 🌿  
 
----
+----
 
 ## 🎯 Future Plans  
 📌 Add simple projects & scripts  
